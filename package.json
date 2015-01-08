@@ -1,0 +1,20 @@
+{
+  "name": "imagePro",
+  "version": "1.0.0",
+  "description": "image process",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "image",
+    "process"
+  ],
+  "author": "nocer",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.18.0",
+    "imagemin": "^3.1.0",
+    "superagent": "^0.21.0"
+  }
+}

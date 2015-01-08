@@ -1,0 +1,10 @@
+{
+	"web":"http://www.dianping.com/nanjing",
+	"tag":".DPKAN img",
+	"attr":"src",
+	"ratio":0.2,
+	"flag":true,
+	"downloaddir":"download",
+	"compressdir":"compress",
+	"rmdir":true
+}
